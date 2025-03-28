@@ -74,20 +74,3 @@ if (!result.valid) {
 ## Contributing
 
 All contributions are welcome! Please feel free to open a Pull Request.
-# crypto-wallets-validator
-# crypto-wallets-validator
-# crypto-wallets-validator
-# crypto-wallets-validator
-# crypto-wallets-validator
-# crypto-wallets-validator
-# crypto-wallets-validator
-# crypto-wallets-validator
-# crypto-wallets-validator
-# crypto-wallets-validator
-# crypto-wallets-validator
-# crypto-wallets-validator
-# wallets-validate
-# wallets-validate
-# wallets-validate
-# wallets-validate
-# crypto-wallets-validate
